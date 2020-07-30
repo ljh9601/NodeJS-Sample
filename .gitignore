@@ -35,11 +35,7 @@ package-lock.json
 bower_components
 
 # mongoDB Connection Info
-routes/mongoConfig.js
-/routes/mongoConfig.js
-./routes/mongoConfig.js
-./mongoConfig.js
-../mongoConfig.js
+etc/
 
 # node-waf configuration
 .lock-wscript
