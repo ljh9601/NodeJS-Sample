@@ -18,6 +18,7 @@ app.set('port', port);
 /**
  * Create HTTP server.
  */
+var tempPort;
 
 var server = http.createServer(app);
 
